@@ -3,8 +3,8 @@ class ClaudeHandoff < Formula
 
   desc "Summarize & export Claude Code sessions into one clean handoff.md"
   homepage "https://github.com/Vasilispapg/claude-handoff"
-  url "https://files.pythonhosted.org/packages/c3/9d/268d2698313edded9096cdf6e1f09853e936cf937f4dc46662363b7ecfdc/claude_handoff-0.11.0.tar.gz"
-  sha256 "ac43db350e8a5ba122080d27c0ac499c172b474d1031731640a7d31e156b1562"
+  url "https://files.pythonhosted.org/packages/0d/36/a9f669356525f23bc7d109aa999cbbc333544f3b75693e09d581d06a895a/claude_handoff-0.13.0.tar.gz"
+  sha256 "857fb68ad9710e6772c28e0677394132fcbb5e2267b3ede68e90782757bcdb77"
   license "MIT"
 
   depends_on "python@3.13"
